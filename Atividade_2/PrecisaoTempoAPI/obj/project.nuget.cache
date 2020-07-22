@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zr2AcMrIjPfPQCGI/VStn1wUGoESTolfIbzCcQgrppsdUT7bFiELe0NkBz3JCF4UOKGY7YCfAsHwYwDZghAKA==",
+  "dgSpecHash": "pZfxzFuk1s7Lf9MUQQSk+LhBeEA1uuWtOodz0cV4adcXoT/+FzXfQeY0x/Jt78JdF6D5Z8PuRxf+7bJTDupVCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\source\\repos\\EnderecoAPI\\PrecisaoTempoAPI\\PrevisaoTempoAPI.csproj",
+  "projectFilePath": "C:\\Users\\paulo\\source\\repos\\AulaPresencial2\\EnderecoAPI\\PrecisaoTempoAPI\\PrevisaoTempoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

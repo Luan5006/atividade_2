@@ -8247,11 +8247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\source\\repos\\EnderecoAPI\\PrecisaoTempoAPI\\PrevisaoTempoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\paulo\\source\\repos\\AulaPresencial2\\EnderecoAPI\\PrecisaoTempoAPI\\PrevisaoTempoAPI.csproj",
       "projectName": "PrevisaoTempoAPI",
-      "projectPath": "C:\\Users\\paulo\\source\\repos\\EnderecoAPI\\PrecisaoTempoAPI\\PrevisaoTempoAPI.csproj",
+      "projectPath": "C:\\Users\\paulo\\source\\repos\\AulaPresencial2\\EnderecoAPI\\PrecisaoTempoAPI\\PrevisaoTempoAPI.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\source\\repos\\EnderecoAPI\\PrecisaoTempoAPI\\obj\\",
+      "outputPath": "C:\\Users\\paulo\\source\\repos\\AulaPresencial2\\EnderecoAPI\\PrecisaoTempoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
